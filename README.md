@@ -1,4 +1,4 @@
-# FileRandomizer
+
 randomizes ur files hehe
 1. Fork the repo to your github
 2. Pull your fork into Eclipse
